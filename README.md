@@ -1,7 +1,9 @@
 # 💫 About Me:
-I am Full stack developer | Backend Developer<br>+3 Years Experience <br>Technologies used : Python , React, C#, .NET, JS, TS.<br>
-
-
+Full-stack developer with experience in working with Python, Django REST Framework, and React.js. Proven
+experience in designing secure and scalable web applications and REST APIs in high-security contexts, namely the
+Egyptian Forces. Knowledge of database performance optimization, cloud deployment, and DevOps techniques
+using Docker and Linux. Passionate about writing clean and well-maintained code for complex systems.
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yassenmismail/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassenmismail@gmail.com) 
 
